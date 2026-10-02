@@ -1,4 +1,4 @@
-mport numpy as np
+import numpy as np
 
 # Create a 1D array containing numbers 1 to 10
 arr = np.arange(1, 11)
